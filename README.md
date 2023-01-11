@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World 👋 
+I'm Elena, full stack web developer (I'm not a junior developer yet. At the moment I've juest been born and I'm a little baby working hard😄) 
+
+
 
 <!--
 **elenarjonap/elenarjonap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
