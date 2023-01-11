@@ -1,5 +1,5 @@
 ### Hello World 👋 
-I'm Elena, full stack web developer (I'm not a junior developer yet. At the moment I've juest been born and I'm a little baby working hard😄) 
+I'm Elena, full stack web developer (I'm not a junior developer yet. At the moment I've just been born and I'm a little baby working hard😄) 
 
 
 <img src="https://user-images.githubusercontent.com/113030390/211792191-859bd6b1-f83b-4cfd-afc7-801f0f072f79.jpg" width="25%"/>
