@@ -2,6 +2,10 @@
 I'm Elena, full stack web developer (I'm not a junior developer yet. At the moment I've juest been born and I'm a little baby working hard😄) 
 
 
+![7922047](https://user-images.githubusercontent.com/113030390/211792191-859bd6b1-f83b-4cfd-afc7-801f0f072f79.jpg)
+
+
+
 
 <!--
 **elenarjonap/elenarjonap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
