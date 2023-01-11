@@ -4,7 +4,7 @@ I'm Elena, full stack web developer (I'm not a junior developer yet. At the mome
 
 <img src="https://user-images.githubusercontent.com/113030390/211792191-859bd6b1-f83b-4cfd-afc7-801f0f072f79.jpg" width="25%"/>
 
-### Currently learning  
+### Currently learning:  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
