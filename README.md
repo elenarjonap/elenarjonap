@@ -21,9 +21,6 @@ I'm Elena, full stack web developer (I'm not a junior developer yet. At the mome
 <br>
 
 <div align="center">
-<a href="https://github.com/elenarjonap" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/elena-mar%C3%ADa-p%C3%A9rez-arjona-a090b3110/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
